@@ -5,6 +5,7 @@ This project demonstrates the design and implementation of a **relational databa
 
 The project covers **database design, querying, and analytics**, making it ideal for demonstrating real-world data analyst skills.
 
+![image](https://github.com/kunal1300/Grocery-Store-Management-System-Using-SQL-Project/blob/99c2f8f399f239c041a8e4c44b714e358302e5ac/Images/Er-Diagram.png)
 ---
 
 ## 🎯 Objectives
