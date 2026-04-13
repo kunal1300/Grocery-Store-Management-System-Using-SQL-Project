@@ -38,7 +38,7 @@ The system consists of **7 interconnected tables**:
 ---
 
 ## 🛠️ Tech Stack
-- SQL (MySQL / PostgreSQL)
+- SQL (MySQL)
 - Database Design (ER Modeling)
 - Data Analysis
 
